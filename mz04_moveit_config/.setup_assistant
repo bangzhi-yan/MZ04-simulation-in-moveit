@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: mz04
+    relative_path: urdf/mz04.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/mz04.srdf
+  CONFIG:
+    author_name: Bangzhi-Yan
+    author_email: 13269853329@163.com
+    generated_timestamp: 1655171018
